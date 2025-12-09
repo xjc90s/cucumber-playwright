@@ -57,7 +57,7 @@
     "@types/pngjs": "6.0.1",
     "@typescript-eslint/eslint-plugin": "8.48.1",
     "@typescript-eslint/parser": "8.48.1",
-    "allure-cucumberjs": "2.3.0",
+    "allure-cucumberjs": "2.15.1",
     "eslint": "8.40.0",
     "eslint-config-prettier": "8.8.0",
     "eslint-plugin-import": "2.27.5",
